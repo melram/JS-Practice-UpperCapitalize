@@ -61,15 +61,6 @@ listmayuscula.addEventListener("click", () => {
         <!--De de los mensajes anteriores-->
         <button id="listmayuscula">Convertir primera letra de cada palabra en mayuscula</button>
         <!--Realizar un boton anterior de 2 maneras, con y sin hacer modificaciones al texto ingresando por el usuario al insertarlo-->
-
-         <!--Practica de Ejercio :D Resolviendo de forma diferente
-            Resolviendo una entrevista para programador javascript:
-            Credito de Damian Sire Desarrollo:
-            https://www.youtube.com/watch?v=UIENaGNL6es
-
-            Se hace lo que se puede , Exitos a Todos.
-            -->
-
     </body>
     <script src="index.js"></script>
 </html>
